@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Langchain, C++, TensorFlow. 
 - 💞️ I’m looking to collaborate on ML, Web dev.
 - 📫 How to reach me linkadin - https://www.linkedin.com/in/tannish-dhawan-175877229
+- devpost link - https://devpost.com/tannishdhawan/achievements
 - 😄 Pronouns: he/him 
   
 
